@@ -2,7 +2,7 @@
 
 [To Wiki](https://github.com/funkcjonariusz/projekt/wiki) jest częścią projektu [Funkcjonariusz](https://funkcjonariusz.com/), platformy do dyskretnej eksfiltracji danych z:
 
-1. [Komputerów i serwerów](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Testowane-systemy-operacyjne):
+1. [Komputerów i serwerów](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Wspierane-systemy-operacyjne):
 
 - Windows - od XP do 11
 - Linux
