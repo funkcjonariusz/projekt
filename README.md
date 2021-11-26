@@ -2,7 +2,7 @@
 
 [To Wiki](https://github.com/funkcjonariusz/projekt/wiki) jest częścią projektu [Funkcjonariusz](https://funkcjonariusz.com/), platformy do dyskretnej eksfiltracji danych z:
 
-1. [Komputerów i serwerów](https://github.com/drivebadger/drivebadger/wiki/Tested-systems):
+1. [Komputerów i serwerów](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Testowane-systemy-operacyjne):
 
 - Windows - od XP do 11
 - Linux
@@ -20,9 +20,9 @@
 - urządzeń mobilnych nie wspierających MTP/PTP (np. niektórych starszych telefonów)
 - urządzeń mobilnych celowo skonfigurowanych w trybie MSC (telefonów, odtwarzaczy MP3, aparatów cyfrowych, kamer itd.)
 - pen drive'ów
-- dysków zewnęrznych USB
+- dysków zewnętrznych USB
 - dysków wyjętych z innego komputera (np. z [fizycznie uszkodzonymi lub odciętymi portami USB](https://github.com/drivebadger/drivebadger/wiki/Hardware-problems-(damaged-USB-ports))), podłączonych przez mostek USB
-- w tym [dysków zaszyfrowanych](https://github.com/drivebadger/drivebadger/wiki/Encryption-support) przy użyciu [Bitlockera](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(Bitlocker)), [LUKS](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(LUKS)), [VeraCrypt](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(VeraCrypt)), czy [Apple FileVault](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(FileVault))
+- w tym [dysków zaszyfrowanych](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Szyfrowanie-dyskow) przy użyciu [Bitlockera](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Szyfrowanie-dyskow-(Bitlocker)), [LUKS](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Szyfrowanie-dyskow-(LUKS)), [VeraCrypt](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Szyfrowanie-dyskow-(VeraCrypt)), czy [Apple FileVault](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Szyfrowanie-dyskow-(FileVault))
 
 
 # Funkcjonariusz vs Drive Badger
@@ -30,7 +30,7 @@
 Projekt [Funkcjonariusz](https://funkcjonariusz.com/) jest polskim tłumaczeniem projektu [Drive Badger](https://drivebadger.com/).
 Wszystkie [polskie instrukcje](https://github.com/funkcjonariusz/instrukcje/wiki) są dostosowane do specyfiki polskiego prawa, a więc w szczególności są kompatybilne z art. 220 § 3 Kodeksu postępowania karnego.
 
-Oprócz nich, koniecznie przeyrzyj też [instrukcje w języku angielskim](https://github.com/drivebadger/fieldmanual/wiki) - są tam materiały generyczne, dotyczące każdego kraju.
+Oprócz nich, koniecznie przejrzyj też [instrukcje w języku angielskim](https://github.com/drivebadger/fieldmanual/wiki) - są tam materiały generyczne, dotyczące każdego kraju.
 
 W instrukcjach możesz spotkać się z dwoma nazwami produktów:
 
