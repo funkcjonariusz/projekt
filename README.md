@@ -21,7 +21,7 @@
 - urządzeń mobilnych celowo skonfigurowanych w trybie MSC (telefonów, odtwarzaczy MP3, aparatów cyfrowych, kamer itd.)
 - pen drive'ów
 - dysków zewnętrznych USB
-- dysków wyjętych z innego komputera (np. z [fizycznie uszkodzonymi lub odciętymi portami USB](https://github.com/drivebadger/drivebadger/wiki/Hardware-problems-(damaged-USB-ports))), podłączonych przez mostek USB
+- dysków wyjętych z innego komputera (np. z [fizycznie uszkodzonymi lub odciętymi portami USB](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Problemy-ze-sprzetem-(popsute-porty-USB))), podłączonych przez mostek USB
 - w tym [dysków zaszyfrowanych](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Szyfrowanie-dyskow) przy użyciu [Bitlockera](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Szyfrowanie-dyskow-(Bitlocker)), [LUKS](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Szyfrowanie-dyskow-(LUKS)), [VeraCrypt](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Szyfrowanie-dyskow-(VeraCrypt)), czy [Apple FileVault](https://github.com/funkcjonariusz/funkcjonariusz/wiki/Szyfrowanie-dyskow-(FileVault))
 
 
