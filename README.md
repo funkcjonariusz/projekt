@@ -8,7 +8,7 @@
 - Linux
 - Mac OS - co najmniej do wydania Catalina
 
-2. [Urządzeń mobilnych](https://github.com/drivebadger/mobilebadger/wiki/Tested-systems) (wszystkich marek i modeli, które wymieniają dane z komputerem przez złącze USB, za pośrednictwem protokołów MTP lub PTP):
+2. [Urządzeń mobilnych](https://github.com/funkcjonariusz/mobilny/wiki/Testowane-systemy) (wszystkich marek i modeli, które wymieniają dane z komputerem przez złącze USB, za pośrednictwem protokołów MTP lub PTP):
 
 - Android - telefonów, tabletów i innych urządzeń
 - iOS - iPhone, iPad
